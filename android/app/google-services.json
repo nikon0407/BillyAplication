@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27279437235",
+    "project_id": "billyapp-a6321",
+    "storage_bucket": "billyapp-a6321.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27279437235:android:096f350253ac8420c4efc6",
+        "android_client_info": {
+          "package_name": "com.example.billy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27279437235-jrcqlrnk75u89esct5itjo9ntbv9hd3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe8DnXSABkj-C4eKzGwMPYFqHZ8yVj4Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27279437235-jrcqlrnk75u89esct5itjo9ntbv9hd3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
